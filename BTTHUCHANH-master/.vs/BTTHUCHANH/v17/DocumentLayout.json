@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UDC\\BTTHUCHANH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|D:\\UDC\\BTTHUCHANH\\btthuchanh\\controllers\\receiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|solutionrelative:btthuchanh\\controllers\\receiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|d:\\udc\\btthuchanh\\btthuchanh\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|solutionrelative:btthuchanh\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|D:\\UDC\\BTTHUCHANH\\btthuchanh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|solutionrelative:btthuchanh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|D:\\UDC\\BTTHUCHANH\\btthuchanh\\dbcontext\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|solutionrelative:btthuchanh\\dbcontext\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|D:\\UDC\\BTTHUCHANH\\btthuchanh\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|solutionrelative:btthuchanh\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|D:\\UDC\\BTTHUCHANH\\btthuchanh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|solutionrelative:btthuchanh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|D:\\UDC\\BTTHUCHANH\\btthuchanh\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|solutionrelative:btthuchanh\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|D:\\UDC\\BTTHUCHANH\\btthuchanh\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|solutionrelative:btthuchanh\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|D:\\UDC\\BTTHUCHANH\\btthuchanh\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|solutionrelative:btthuchanh\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|D:\\UDC\\BTTHUCHANH\\btthuchanh\\btthuchanh.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|solutionrelative:btthuchanh\\btthuchanh.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|D:\\UDC\\BTTHUCHANH\\btthuchanh\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|solutionrelative:btthuchanh\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|D:\\UDC\\BTTHUCHANH\\btthuchanh\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|solutionrelative:btthuchanh\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|D:\\UDC\\BTTHUCHANH\\btthuchanh\\models\\receiptdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|solutionrelative:btthuchanh\\models\\receiptdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|D:\\UDC\\BTTHUCHANH\\btthuchanh\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|solutionrelative:btthuchanh\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|D:\\UDC\\BTTHUCHANH\\btthuchanh\\btthuchanh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{131DE91F-785D-41CE-9167-F9ADE64CFA95}|BTTHUCHANH\\BTTHUCHANH.csproj|solutionrelative:btthuchanh\\btthuchanh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BTTHUCHANH\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BTTHUCHANH\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:21:08.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Program.cs",
+              "RelativeDocumentMoniker": "BTTHUCHANH\\Program.cs",
+              "ToolTip": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Program.cs",
+              "RelativeToolTip": "BTTHUCHANH\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:00:50.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BTTHUCHANH\\Models\\User.cs",
+              "ToolTip": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Models\\User.cs",
+              "RelativeToolTip": "BTTHUCHANH\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:06:01.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\DbContext\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "BTTHUCHANH\\DbContext\\ProductDbContext.cs",
+              "ToolTip": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\DbContext\\ProductDbContext.cs",
+              "RelativeToolTip": "BTTHUCHANH\\DbContext\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:01:57.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BTTHUCHANH\\Models\\Product.cs",
+              "ToolTip": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Models\\Product.cs",
+              "RelativeToolTip": "BTTHUCHANH\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:04:56.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReceiptController.cs",
+              "DocumentMoniker": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Controllers\\ReceiptController.cs",
+              "RelativeDocumentMoniker": "BTTHUCHANH\\Controllers\\ReceiptController.cs",
+              "ToolTip": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Controllers\\ReceiptController.cs*",
+              "RelativeToolTip": "BTTHUCHANH\\Controllers\\ReceiptController.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:22:34.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\appsettings.json",
+              "RelativeDocumentMoniker": "BTTHUCHANH\\appsettings.json",
+              "ToolTip": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\appsettings.json",
+              "RelativeToolTip": "BTTHUCHANH\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T15:00:23.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BTTHUCHANH\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BTTHUCHANH\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T02:52:59.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BTTHUCHANH.http",
+              "DocumentMoniker": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\BTTHUCHANH.http",
+              "RelativeDocumentMoniker": "BTTHUCHANH\\BTTHUCHANH.http",
+              "ToolTip": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\BTTHUCHANH.http",
+              "RelativeToolTip": "BTTHUCHANH\\BTTHUCHANH.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-15T15:00:23.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BTTHUCHANH\\WeatherForecast.cs",
+              "ToolTip": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\WeatherForecast.cs",
+              "RelativeToolTip": "BTTHUCHANH\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:57:48.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BTTHUCHANH\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BTTHUCHANH\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:02:44.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReceiptDetail.cs",
+              "DocumentMoniker": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Models\\ReceiptDetail.cs",
+              "RelativeDocumentMoniker": "BTTHUCHANH\\Models\\ReceiptDetail.cs",
+              "ToolTip": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Models\\ReceiptDetail.cs",
+              "RelativeToolTip": "BTTHUCHANH\\Models\\ReceiptDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:06:54.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartDetail.cs",
+              "DocumentMoniker": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Models\\CartDetail.cs",
+              "RelativeDocumentMoniker": "BTTHUCHANH\\Models\\CartDetail.cs",
+              "ToolTip": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Models\\CartDetail.cs",
+              "RelativeToolTip": "BTTHUCHANH\\Models\\CartDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:10:07.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BTTHUCHANH\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BTTHUCHANH\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:22:21.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BTTHUCHANH.csproj",
+              "DocumentMoniker": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\BTTHUCHANH.csproj",
+              "RelativeDocumentMoniker": "BTTHUCHANH\\BTTHUCHANH.csproj",
+              "ToolTip": "D:\\UDC\\BTTHUCHANH\\BTTHUCHANH\\BTTHUCHANH.csproj",
+              "RelativeToolTip": "BTTHUCHANH\\BTTHUCHANH.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T15:01:03.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
